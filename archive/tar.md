@@ -1,4 +1,4 @@
-# golang—-archive/tar
+# golang–archive/tar
 
 ## index
 
@@ -84,7 +84,7 @@
 ```golang
 package main
 
-// 非正常文件，如：软连接，硬链接文件没有处理，打包后的文件存在没有处理
+// 非正常文件，如：软连接，硬链接文件没有处理，打包文件存在没有处理
 import (
 	"archive/tar"
 	"fmt"
